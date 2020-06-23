@@ -1,0 +1,13 @@
+import math
+a=math.sin(60)
+print(a)
+b=math.cos(3.142)
+print(b)
+c=math.tan(90)
+print(c)
+d=math.sqrt(400)
+print(d)
+e=math.ceil(23.56)
+print(e)
+f=math.floor(23.56)
+print(f)
